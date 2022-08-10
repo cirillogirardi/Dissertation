@@ -17,20 +17,20 @@ The Notebook is organized as follows:
   - The models are applied to the original dataset and to a dimensionally reduced dataset
   - The clusters are visualised and explained.
 
-## *Data Mining*
+## Data Mining
 
 This section contains a Jupyter Notebook which assesses the initial dataset provided by Zeb Consultancy. Within the Notebook the data is foremost described and explained and then the most significant issues are presented. 
 
 Once the issues are clearly stated, the features and their respective distributions are graphed for the reader to better understand the data types, characteristics and statistics.
 
-## *Data Transformation*
+## Data Transformation
 
 This section is devoted to the transformation of the dataset prior to the data modelling. Within this section, two Notebooks are present:
 
-  - **Data Transformation**
-  - **Web Scraping**.
+  - *Data Transformation*
+  - *Web Scraping*.
 
-The former Notebook wants to transform the features which presented issues in the **Data Mining** Notebook. Precisely, it tackles missing/ zero values, it corrects skewed distributions and further normalises and standardises the dataset. Lastly, the Notebook also separates the dataset into two new datasets. By doing so, the research can achieve greater accuracy and validity in later clustering.
+The former Notebook wants to transform the features which presented issues in the *Data Mining* Notebook. Precisely, it tackles missing/ zero values, it corrects skewed distributions and further normalises and standardises the dataset. Lastly, the Notebook also separates the dataset into two new datasets. By doing so, the research can achieve greater accuracy and validity in later clustering.
 
 The latter Notebook, on the other hand, utilises web-scraping techniques in order to collect more data. Specifically, it collects data from German postcodes to geographically segment the observations of the dataset.
 
@@ -38,12 +38,12 @@ The latter Notebook, on the other hand, utilises web-scraping techniques in orde
 
 The data modelling applies clustering techniques to the original datasets. The models applied are the following:
 
-  - **K-Means**
-  - **Hierarchical Clustering**
-  - **K-Modes**
-  - **DBSCAN**
-  - **Fuzzy C-Means**
-  - **Self Organizing Maps**.
+  - *K-Means*
+  - *Hierarchical Clustering*
+  - *K-Modes*
+  - *DBSCAN*
+  - *Fuzzy C-Means*
+  - *Self Organizing Maps*.
  
  For the sake of readability, each modelling technique is reported and summarised within a new Notebook. 
 
@@ -51,12 +51,12 @@ The data modelling applies clustering techniques to the original datasets. The m
 
 Within this section, the datasets are foremost dimensionally reduced through the application of Principal Component Analysis. Following the reduction of the datasets, data modelling techniques are once again applied to the datasets. The models applied are the following:
 
-  - **K-Means**
-  - **Hierarchical Clustering**
-  - **K-Modes**
-  - **DBSCAN**
-  - **Fuzzy C-Means**
-  - **Self Organizing Maps**.
+  - *K-Means*
+  - *Hierarchical Clustering*
+  - *K-Modes*
+  - *DBSCAN*
+  - *Fuzzy C-Means*
+  - *Self Organizing Maps*.
 
 For the sake of readability, each modelling technique is reported and summarised within a new Notebook.
 
