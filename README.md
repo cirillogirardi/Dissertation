@@ -30,9 +30,13 @@ This section is devoted to the transformation of the dataset prior to the data m
   - *Data Transformation*
   - *Web Scraping*.
 
-The former Notebook wants to transform the features which presented issues in the *Data Mining* Notebook. Precisely, it tackles missing/ zero values, it corrects skewed distributions and further normalises and standardises the dataset. Lastly, the Notebook also separates the dataset into two new datasets. By doing so, the research can achieve greater accuracy and validity in later clustering.
+The former Notebook wants to transform the features which presented issues in the *Data Mining* Notebook. Precisely, it tackles missing/ zero values and corrects skewed distributions.
 
 The latter Notebook, on the other hand, utilises web-scraping techniques in order to collect more data. Specifically, it collects data from German postcodes to geographically segment the observations of the dataset.
+
+## Data Correction
+
+This section is devoted to the last corrections prior to the modelling of the dataset. Specifically, the branch contains a Notebook which normalises and standardises the dataset. The Notebook also separates the dataset into two new datasets. By doing so, the research can achieve greater accuracy and validity in later clustering.
 
 ## Data Modelling
 
