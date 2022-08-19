@@ -100,7 +100,3 @@ For the sake of readability, each modelling technique is reported and summarised
 ## Cluster Explanation
 
 This section selects the best models according to pre-defined performance metrics and reports the main findings, both visually and in written form.
-
-## Granular Segmentation
-
-This section was devoted to an excercise later deemed inefficient and redundant. Specifically, the research wanted to segment the datasets even further to then apply the clustering techniques. While this would have provided more granular results, the modelling was not aligned with the initial objective of the research and the clustering results did not prove as efficient as initially hoped for. Consequentially, the idea was dropped but the Notebook was kept as a reference.
