@@ -2,6 +2,8 @@
 
 This repository documents all the steps taken in order to develop a customer micro-segmentation of the clients of a corporate bank. For the purpose of data privacy, the dataset utilised cannot be uploaded within the repository. Nonetheless, the Notebooks take necessarry precautions to ensure that all of the data and processess are well explained in order not to cause any inconvenience to the reader.
 
+The Dissertation is divided in several sections, therefore this repository follows an analogous segmentation. Each section is contained within a separate branch of the repository. The branch Summary Report contains a final report of the dissertation Notebook.
+
 ## Summary Report
 
 The summary report contains the most recent and updated Jupyter Notebook file documenting and summarising the entirety of the process. Throughout the Notebook, the reader can follow the steps that were taken in order to interpret, visualise, transform and cluster the data.
